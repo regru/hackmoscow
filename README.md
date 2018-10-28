@@ -118,7 +118,7 @@ scp root@%vps_ip_address%:/path/to/file
 # Instruction for Cloud Servers 
 
 ***
-For the VPS order follow the link: https://www.reg.ru/cloudvps/order_free?token=hackmoscow2018  
+For the VPS order follow the link: https://www.reg.ru/cloudvps/order_free?token=hackmoscow2018_reserved  
 
 > _**NOTE**_: It is enough of one account per command.
 > After creating the server, the letter with a root-password will be sent to the specified e-mail.
